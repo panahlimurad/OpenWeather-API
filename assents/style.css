@@ -7,7 +7,7 @@
 body{
     font-family: 'montserrat', sans-serif;
     color: #fff;
-    background-image: url('../img/pexels-cameron-casey-1334605.jpg');
+    background-image: url('/img/pexels-cameron-casey-1334605.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
